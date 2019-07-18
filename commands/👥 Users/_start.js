@@ -3,10 +3,15 @@
   help: 
   need_reply: 
   auto_retry_time: 
+  folder: 👥 Users
 
   <<ANSWER
-Hello user. You can /login as admin or start /message with admin.
-Also you can see current properties: /debug
+Hello user!
+
+You can /login as admin
+
+or start /message with admin.
+
   ANSWER
   keyboard: 
   aliases: 
